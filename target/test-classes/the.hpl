@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: demo
+Long-Name: TODO Plugin
+Plugin-Version: 1.0
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: /Users/patwardhan/demo/src/main/resources,/Users/patwardhan
+ /demo/target/classes
+Resource-Path: /Users/patwardhan/demo/src/main/webapp
+
